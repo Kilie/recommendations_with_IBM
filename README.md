@@ -1,4 +1,4 @@
-## recommendations_with_IBM
+## Build Recommendation Systems with IBM
 
 ### Introduction
 This projec is to build recommendations for articles on the IBM Watson Studio platform. 
