@@ -17,15 +17,15 @@ Finally, by splitting the data into train and test sets, I was able to assess th
 
 1. Recommendations_with_IBM.ipynb
 
-A Jupyter notebook containing Python scripts for this project.
+- A Jupyter notebook containing Python scripts for this project.
 
 2. Recommendations_with_IBM.html 
 
-A html copy of the Jupyter notebook.
+- A html copy of the Jupyter notebook.
 
 3. Visuals
 
-This folder contains some visuals from this project.
+- This folder contains some visuals from this project.
 
 ### Some Visuals
 
