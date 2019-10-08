@@ -27,7 +27,7 @@ A html copy of the Jupyter notebook.
 
 This folder contains some visuals from this project.
 
-### Results
+### Some Visuals
 
 ![Distribution of User-Article Interactions](https://github.com/Kilie/recommendations_with_IBM/blob/master/Visuals/Distribution%20of%20User-Article%20Interactions.png)
 
