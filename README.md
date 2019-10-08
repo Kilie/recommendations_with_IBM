@@ -37,11 +37,11 @@ Fig. 1. Distribution of user-article interactions in the original dataset.
 
 Fig. 2. Accuracy vs. number of latent features
 
-### Some Thoughts
+### Some Thoughts on Matrix Factorization
 
 As the dataset used in this project doesn't contain missing values, I was able to use the SVD method to make recommendations. However, very often we get missing data in the dataset due various reasons. In these cases we won't be able to use SVD, as this methods doesn't work with missing values. Instead, FunkSVD will be a good alternative in such cases.
 
-### Further Thoughts on Testing the Recommendations
+### Further Thoughts on How to Test the Recommendations
 
 There are various possible ways to determine if the recommendations we make are an improvement to how users find articles.
 
